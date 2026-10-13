@@ -1,0 +1,5 @@
+*.a
+*.o
+node_modules/
+dist/
+*.tsbuildinfo

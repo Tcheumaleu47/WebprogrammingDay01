@@ -1,5 +1,3 @@
-* .a
-* .o
 node_modules/
 dist/
-*.tsbuildinfo
+package-lock.json
