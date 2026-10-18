@@ -1,0 +1,13 @@
+/* 
+** EPITECH PROJECT, 2026
+** my_print_digits.c
+** File description:
+*/
+
+#include <unistd.h>
+
+int main my_print_digits.c(void)
+{
+    
+    return 0;
+}
